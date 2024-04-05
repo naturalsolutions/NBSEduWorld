@@ -13,6 +13,20 @@
     <a href="#getting-started"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <hr />
+    <br />
+    <a href="https://vote.webbyawards.com/PublicVoting#/2024/ai-metaverse-virtual/ai-apps-and-experiences/public-service-activism">
+        <img src="assets/img/webby.png" alt="Vote for us" width="80" />
+    </a>
+    <br />
+    <br />
+    📢 We have been nominated for a Webby Award! <br />
+    The Dutch Cycling Lifestyle AI tool could win a Webby in the category <i>AI, metaverse & experiences - public services and activism</i> <br />
+    <a href="https://vote.webbyawards.com/PublicVoting#/2024/ai-metaverse-virtual/ai-apps-and-experiences/public-service-activism">Help us win and vote.</a> 
+    <br />
+    <br />
+    <hr />
+    <br />
     <a href="https://www.holland.com/global/tourism/get-inspired/current/cycling-lifestyle.htm">Read more</a>
     ·
     <a href="https://github.com/dutchcyclinglifestyle/dutchcyclinglifestyle/issues">Report Bug</a>
