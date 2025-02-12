@@ -70,9 +70,11 @@
 
 ### Background
 
-The Dutch cycling lifestyle tool is a project by the Netherlands Board of Tourism & Conventions. The tool is designed to generate images of a happier and healthier street with our cycling lifestyle. The tool is built using a combination of AI and urban planning to create a vision of a future street that's more suitable for cycling.
 
-The tool transforms existing streets into a vision of a future street that's more suitable for cycling. See the example below:
+Nature-based solutions (NBS) are solutions that are inspired and supported by nature, which are cost-effective, simultaneously provide environmental, social and economic benefits and help build resilience. Such solutions bring more, and more diverse, nature and natural features and processes into cities, landscapes and seascapes, through locally adapted, resource-efficient and systemic interventions. Nature-based solutions must therefore benefit biodiversity and support the delivery of a range of ecosystem services.
+
+NBS EduWORLD is a Horizon Europe project at the crossroads between nature-based solutions and education, a forerunner project blending the two topics. The result is a unique consortium bringing together researchers, educators, NBS practitioners, and even sports community members with the common goal of creating engaging and locally relevant educational materials centering the environmental, social, and professional merits of NBS.
+
 
 |              Before               |              After               |
 | :-------------------------------: | :------------------------------: |
