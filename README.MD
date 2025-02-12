@@ -179,12 +179,6 @@ Please note that the first run of the workflow will take a while to download the
 
 ## Roadmap
 
-- [x] Start of development (June 2023)
-- [x] Launch Dutch cycling lifestyle tool (October 2023)
-- [x] One million generated images (January 2024)
-- [x] Open source the tool (February 2024)
-- [ ] Cease operation of the tool due to insufficient funding (June 2024)
-- [ ] Hackathon at [Urban Future Rotterdam](https://urban-future.org/event/uf24-rotterdam-launch/uf24/) (June 2024)
 
 ## Contributing
 
@@ -200,15 +194,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact
 
-<div 
-  style="display: flex;flex-direction: column;align-items: center;font-size: 12px;text-align:center">
-  <img src="assets/img/nbtc_logo_full.svg" alt="Logo" width="104" height="31" style="margin-bottom:12px">
-  <p>
-  The Netherlands Board of Tourism & Conventions (NBTC)
-  <br>
-  <a href="mailto:cyclinglifestyle@holland.com">cyclinglifestyle@holland.com</a>
-  </p>
-</div>
+contact@natural-solutions.eu 
 
 <!-- Credits -->
 
